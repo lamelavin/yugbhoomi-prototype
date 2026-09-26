@@ -117,7 +117,7 @@ The intended YugBhoomi architecture consists of several layers:
        ┌───────────────────┐              ┌───────────────────┐
        │ PostgreSQL        │              │ AI / ML Services  │
        │ + PostGIS         │              │ Python + FastAPI  │
-       └───────────────────┘              │ ML + Explainability│
+       └───────────────────┘              │ ML +Explainability│
                                           └───────────────────┘
 ```
 
